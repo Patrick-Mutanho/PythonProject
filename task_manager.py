@@ -3,7 +3,7 @@ from datetime import *
 from datetime import datetime as dt
 
 
-print("This is test")
+print("This is test2")
 #register user function
 def reg_user(username):
     #open the user file
