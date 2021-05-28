@@ -2,6 +2,8 @@ import linecache
 from datetime import *
 from datetime import datetime as dt
 
+
+print("This is test")
 #register user function
 def reg_user(username):
     #open the user file
